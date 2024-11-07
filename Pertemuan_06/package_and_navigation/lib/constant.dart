@@ -1,0 +1,3 @@
+class Env {
+  static const String API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRxZWZpcXZsZ3R2eWN0aGljb2p5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzAwOTE4NTgsImV4cCI6MjA0NTY2Nzg1OH0.t6dXExVSAmyhCzZLl_-6oHxeS5vinzLSZmxsEP1C5MY';
+}
